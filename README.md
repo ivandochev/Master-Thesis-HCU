@@ -1,1 +1,2 @@
 # Master-Thesis-HCU
+The two scripts were prepared for my Master Thesis in Urban Planning at the HafenCity University in Hamburg, Germany. The Hypothetical Grid Generation is partially based on a numpy implementation designed by Andreas Mueller (2012) found (as of April 2017) at http://peekaboo-vision.blogspot.de/2012/02/simplistic-minimum-spanning-tree-in.html - needless to say I, therefore, take no credit for the MST function in the algorithm.
